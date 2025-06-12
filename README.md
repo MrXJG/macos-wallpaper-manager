@@ -8,4 +8,5 @@
 ## 使用方法
 ```bash
 sudo python3 auto_wallpaper_downloader.py
-<img width="364" alt="image" src="https://github.com/user-attachments/assets/24ace20e-7bb8-4811-a8be-c559d0ffa207" />
+
+![1](https://github.com/user-attachments/assets/52e7107c-4f2e-4e8f-94d2-692fe9f8fd32)
