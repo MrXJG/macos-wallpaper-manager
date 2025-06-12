@@ -1,6 +1,3 @@
-你提供的GitHub链接显示项目名称为 `macos-wallpaper-manager`，脚本文件名为 `macos-wallpaper-manager.py`。根据这个信息，我更新了README中的文件名和下载链接：
-
-```markdown
 # 🖼 macOS 动态壁纸管理器
 
 > 一键批量下载/删除 macOS 官方动态壁纸 (4K SDR 240FPS)
