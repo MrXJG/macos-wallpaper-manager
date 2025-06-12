@@ -1,4 +1,4 @@
-根据你提供的 `wallpaper_manager.py` 脚本，我重新编写了准确反映其功能的 README.md 文件，包含必要的符号和简洁说明：
+你提供的GitHub链接显示项目名称为 `macos-wallpaper-manager`，脚本文件名为 `macos-wallpaper-manager.py`。根据这个信息，我更新了README中的文件名和下载链接：
 
 ```markdown
 # 🖼 macOS 动态壁纸管理器
@@ -20,19 +20,19 @@
 2. **权限要求**  
    ```bash
    # 必须使用 sudo 运行
-   sudo python3 wallpaper_manager.py
+   sudo python3 macos-wallpaper-manager.py
    ```
 
 ## 🛠 使用步骤
 
 ### 1. 下载脚本
 ```bash
-curl -O https://raw.githubusercontent.com/xiangjigong/macos-wallpaper-manager/main/wallpaper_manager.py
+curl -O https://raw.githubusercontent.com/MrXJG/macos-wallpaper-manager/main/macos-wallpaper-manager.py
 ```
 
 ### 2. 运行程序
 ```bash
-sudo python3 wallpaper_manager.py
+sudo python3 macos-wallpaper-manager.py
 ```
 
 ### 3. 选择壁纸分类
@@ -79,7 +79,7 @@ macOS 动态壁纸管理器
 ## ⚠️ 重要注意事项
 1. **必须使用管理员权限运行**
    ```bash
-   sudo python3 wallpaper_manager.py
+   sudo python3 macos-wallpaper-manager.py
    ```
 
 2. **系统文件访问**
@@ -117,5 +117,5 @@ A：尝试：
 
 ---
 
-📄 [查看开源许可证](LICENSE) | 📧 反馈问题: xiangjigong@qq.com
+📄 [查看开源许可证](LICENSE) | 🐛 [问题反馈](https://github.com/MrXJG/macos-wallpaper-manager/issues) | 📧 联系邮箱: xiangjigong@qq.com
 ```
